@@ -1,0 +1,15 @@
+/Users/perlishnov/Documents/Desarrollo de Software I/Teora/ProyectoFinal/Bienvenido a la Biblioteca/bin/Debug/net6.0/Bienvenido a la Biblioteca
+/Users/perlishnov/Documents/Desarrollo de Software I/Teora/ProyectoFinal/Bienvenido a la Biblioteca/bin/Debug/net6.0/Bienvenido a la Biblioteca.deps.json
+/Users/perlishnov/Documents/Desarrollo de Software I/Teora/ProyectoFinal/Bienvenido a la Biblioteca/bin/Debug/net6.0/Bienvenido a la Biblioteca.runtimeconfig.json
+/Users/perlishnov/Documents/Desarrollo de Software I/Teora/ProyectoFinal/Bienvenido a la Biblioteca/bin/Debug/net6.0/Bienvenido a la Biblioteca.dll
+/Users/perlishnov/Documents/Desarrollo de Software I/Teora/ProyectoFinal/Bienvenido a la Biblioteca/bin/Debug/net6.0/Bienvenido a la Biblioteca.pdb
+/Users/perlishnov/Documents/Desarrollo de Software I/Teora/ProyectoFinal/Bienvenido a la Biblioteca/obj/Debug/net6.0/Bienvenido a la Biblioteca.csproj.AssemblyReference.cache
+/Users/perlishnov/Documents/Desarrollo de Software I/Teora/ProyectoFinal/Bienvenido a la Biblioteca/obj/Debug/net6.0/Bienvenido a la Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+/Users/perlishnov/Documents/Desarrollo de Software I/Teora/ProyectoFinal/Bienvenido a la Biblioteca/obj/Debug/net6.0/Bienvenido a la Biblioteca.AssemblyInfoInputs.cache
+/Users/perlishnov/Documents/Desarrollo de Software I/Teora/ProyectoFinal/Bienvenido a la Biblioteca/obj/Debug/net6.0/Bienvenido a la Biblioteca.AssemblyInfo.cs
+/Users/perlishnov/Documents/Desarrollo de Software I/Teora/ProyectoFinal/Bienvenido a la Biblioteca/obj/Debug/net6.0/Bienvenido a la Biblioteca.csproj.CoreCompileInputs.cache
+/Users/perlishnov/Documents/Desarrollo de Software I/Teora/ProyectoFinal/Bienvenido a la Biblioteca/obj/Debug/net6.0/Bienvenido a la Biblioteca.dll
+/Users/perlishnov/Documents/Desarrollo de Software I/Teora/ProyectoFinal/Bienvenido a la Biblioteca/obj/Debug/net6.0/refint/Bienvenido a la Biblioteca.dll
+/Users/perlishnov/Documents/Desarrollo de Software I/Teora/ProyectoFinal/Bienvenido a la Biblioteca/obj/Debug/net6.0/Bienvenido a la Biblioteca.pdb
+/Users/perlishnov/Documents/Desarrollo de Software I/Teora/ProyectoFinal/Bienvenido a la Biblioteca/obj/Debug/net6.0/Bienvenido a la Biblioteca.genruntimeconfig.cache
+/Users/perlishnov/Documents/Desarrollo de Software I/Teora/ProyectoFinal/Bienvenido a la Biblioteca/obj/Debug/net6.0/ref/Bienvenido a la Biblioteca.dll
